@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Matrix.cs" />
+    <Compile Include="Assets\Scripts\ObjectDriver.cs" />
     <Compile Include="Assets\Scripts\ArraySliceExt.cs" />
     <Compile Include="Assets\Scripts\ObjectTracker.cs" />
     <Compile Include="Assets\Scripts\KalmanFilter.cs" />
