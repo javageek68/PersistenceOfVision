@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/listener.unity
+    guid: bd0ca350abc4ddc44bdecbc10aee634e
+  - enabled: 1
+    path: Assets/Scenes/talker.unity
+    guid: 2f23ed30f31848543a4135a2964c8e33
   m_configObjects: {}

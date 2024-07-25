@@ -10,6 +10,10 @@ public class AppDirector : MonoBehaviour
         
     }
 
+    private void OnGUI()
+    {
+        
+    }
     // Update is called once per frame
     void Update()
     {
