@@ -92,8 +92,6 @@
     <Compile Include="Assets\Physics Tank Maker\Editor\Reticle_Control_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Extra_Packages\Physics_Track_System\Editor\PTS_Create_SupportWheel_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Sound_Control_Scripts\Editor\Sound_Control_Engine_CSEditor.cs" />
-    <Compile Include="Assets\TheTalesFactory\Bunkers &amp; Trenches Pack\ReadMe &amp; Publisher Window\Inspector Info\Scripts\Editor\PublisherReadmeEditor.cs" />
-    <Compile Include="Assets\TheTalesFactory\Bunkers &amp; Trenches Pack\ReadMe &amp; Publisher Window\Welcome Screen\Scripts\Editor\PublisherWelcomeScreen.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\ID_Settings_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\UI_Lead_Marker_Control_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\Bullet_Control_CSEditor.cs" />

@@ -310,7 +310,6 @@
     <Compile Include="Assets\Physics Tank Maker\C#_Script\RC_Camera_Scripts\RC_Camera_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Obsolete_Scripts\RC_Camera_Input_04_For_Triggers_Drive_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Menu_Dictionary_CS.cs" />
-    <Compile Include="Assets\TheTalesFactory\Bunkers &amp; Trenches Pack\ReadMe &amp; Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
     <Compile Include="Assets\Physics Tank Maker\Extra_Packages\Physics_Track_System\Scripts\PTS_Sound_Control_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Event_Controller_Scripts\Event_Scripts\Event_Event_07_Show_Result_Canvas_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\Extra_Packages\Physics_Track_System\Scripts\PTS_Create_TrackBelt_CS.cs" />
