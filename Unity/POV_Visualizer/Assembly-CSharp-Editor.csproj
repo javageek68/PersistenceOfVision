@@ -85,7 +85,6 @@
     <Compile Include="Assets\Physics Tank Maker\Editor\Create_RoadWheel_Type89_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Obsolete_Scripts\Editor\Sound_Control_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\ReticleWheel_Control_CSEditor.cs" />
-    <Compile Include="Assets\3D Haven\Path Painter\Editor\Scripts\CompMgr.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\UI_HP_Bars_Target_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Extra_Packages\Physics_Track_System\Editor\PTS_Create_RoadWheel_CSEditor.cs" />
     <Compile Include="Assets\Physics Tank Maker\Editor\Track_LOD_Control_CSEditor.cs" />
