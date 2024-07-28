@@ -161,9 +161,6 @@
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Sound_Control_Scripts\Editor\Sound_Control_Impact_CSEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Users\mike\Documents\Apps\Unity3D\2022.3.26f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
@@ -642,18 +639,6 @@
     </Reference>
     <Reference Include="action_msgs_assembly">
       <HintPath>Assets\Ros2ForUnity\Plugins\action_msgs_assembly.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="EasyRoads3Dv3">
-      <HintPath>Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="EasyRoads3Dv3Editor">
-      <HintPath>Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DelaunayER">
-      <HintPath>Assets\EasyRoads3D\lib\DelaunayER.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">

@@ -119,8 +119,6 @@
     <Compile Include="Assets\Physics Tank Maker\C#_Script\MainBody_Setting_CS.cs" />
     <Compile Include="Assets\Script\WheelAnimation.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Gun_Camera_Scripts\Gun_Camera_Input_02_For_Single_Stick_Drive_CS.cs" />
-    <Compile Include="Assets\EasyRoads3D\Scripts\ERVegetationStudio.cs" />
-    <Compile Include="Assets\EasyRoads3D\Scripts\runtimeScript.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Event_Controller_Scripts\Event_Scripts\Event_Event_03_Change_AI_Settings_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\AI_CS.cs" />
     <Compile Include="Assets\Physics Tank Maker\C#_Script\Camera_Scripts\Camera_Zoom_Scripts\Camera_Zoom_Input_00_Base_CS.cs" />
@@ -691,7 +689,6 @@
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\example_interfaces_u_int16_multi_array__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\builtin_interfaces_duration__rosidl_typesupport_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\example_interfaces_srv_add_two_ints__rosidl_typesupport_c_native.dll" />
-    <None Include="Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\sensor_msgs_srv_set_camera_info__rosidl_typesupport_introspection_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\nav_msgs__rosidl_typesupport_introspection_cpp.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\example_interfaces_multi_array_dimension__rosidl_typesupport_introspection_c_native.dll" />
@@ -832,7 +829,6 @@
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\visualization_msgs__rosidl_generator_c.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\geometry_msgs_polygon_stamped__rosidl_typesupport_introspection_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\unique_identifier_msgs__rosidl_typesupport_introspection_cpp.dll" />
-    <None Include="Assets\EasyRoads3D\lib\DelaunayER.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\composition_interfaces__rosidl_typesupport_c.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\test_msgs_empty__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\rcl_interfaces_parameter_type__rosidl_typesupport_c_native.dll" />
@@ -1719,14 +1715,6 @@
     </Reference>
     <Reference Include="action_msgs_assembly">
       <HintPath>Assets\Ros2ForUnity\Plugins\action_msgs_assembly.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="EasyRoads3Dv3">
-      <HintPath>Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DelaunayER">
-      <HintPath>Assets\EasyRoads3D\lib\DelaunayER.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
