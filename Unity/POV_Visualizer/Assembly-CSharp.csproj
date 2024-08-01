@@ -948,6 +948,7 @@
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\example_interfaces_float32_multi_array__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\test_msgs_w_strings__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\rcl_interfaces_srv_list_parameters__rosidl_typesupport_introspection_c_native.dll" />
+    <None Include="Assets\SkySeries Freebie\Hdri setup.txt" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\geometry_msgs_point32__rosidl_typesupport_introspection_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\std_msgs_float32__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\geometry_msgs__rosidl_typesupport_fastrtps_c.dll" />
