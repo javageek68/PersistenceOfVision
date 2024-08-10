@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\PathFollowerAutoOrient.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
+    <Compile Include="Assets\PROMETEO - Car Controller\Scripts\PrometeoTouchInput.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
     <Compile Include="Assets\Scripts\CamArm.cs" />
@@ -78,6 +79,7 @@
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
     <Compile Include="Assets\PathCreator\Examples\Scripts\PathSceneTool.cs" />
     <Compile Include="Assets\Script\WheelAnimation.cs" />
+    <Compile Include="Assets\PROMETEO - Car Controller\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
     <Compile Include="Assets\Script\WheelAnimation_Ver3.cs" />
     <Compile Include="Assets\Ros2ForUnity\Scripts\ROS2UnityComponent.cs" />
@@ -133,6 +135,7 @@
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
     <Compile Include="Assets\Ros2ForUnity\Scripts\PostInstall.cs" />
+    <Compile Include="Assets\PROMETEO - Car Controller\Scripts\PrometeoCarController.cs" />
     <Compile Include="Assets\PathCreator\Examples\Scripts\PathSpawner.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
@@ -1069,6 +1072,7 @@
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\std_srvs_srv_trigger__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\diagnostic_msgs_diagnostic_array__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\composition_interfaces__rosidl_typesupport_introspection_c.dll" />
+    <None Include="Assets\PROMETEO - Car Controller\Fonts\Licence.txt" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\lifecycle_msgs_transition__rosidl_typesupport_fastrtps_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\geometry_msgs_pose2_d__rosidl_typesupport_c_native.dll" />
     <None Include="Assets\Ros2ForUnity\Plugins\Windows\x86_64\diagnostic_msgs_srv_add_diagnostics__rosidl_typesupport_introspection_c_native.dll" />

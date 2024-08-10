@@ -23,10 +23,10 @@ public class Waypoints : MonoBehaviour
 
     private void OnGUI()
     {
-        if (GUI.Button(new Rect(10, 10, 150, 100), "Generate Waypoint File"))
-        {
-            GenerateWaypointFile2();
-        }
+        //if (GUI.Button(new Rect(10, 10, 150, 100), "Generate Waypoint File"))
+        //{
+        //    GenerateWaypointFile2();
+        //}
     }
 
     private void GenerateWaypointFile2()
