@@ -84,6 +84,7 @@
     <Compile Include="Assets\Script\WheelAnimation_Ver3.cs" />
     <Compile Include="Assets\Ros2ForUnity\Scripts\ROS2UnityComponent.cs" />
     <Compile Include="Assets\Ros2ForUnity\Scripts\ROS2UnityCore.cs" />
+    <Compile Include="Assets\Scripts\HeroController.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
     <Compile Include="Assets\Scripts\Matrix.cs" />
