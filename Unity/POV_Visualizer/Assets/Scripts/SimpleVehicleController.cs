@@ -6,9 +6,9 @@ using UnityEngine;
 public class SimpleVehicleController : MonoBehaviour
 {
     // Settings
-    [SerializeField] private float steeringAngle;
-    [SerializeField] private float throttle;
-    [SerializeField] private float braking;
+    [SerializeField] public float steeringAngle;
+    [SerializeField] public float throttle;
+    [SerializeField] public float braking;
 
     // Wheel Colliders
     [SerializeField] private WheelCollider frontLeftWheelCollider, frontRightWheelCollider;
@@ -20,9 +20,6 @@ public class SimpleVehicleController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log("simple vehicle running");
-        //GetInput();
-
         HandleMotor(throttle, braking);
         HandleSteering(steeringAngle);
         UpdateWheels();
