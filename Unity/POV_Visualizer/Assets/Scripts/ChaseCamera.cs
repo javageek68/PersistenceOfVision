@@ -24,7 +24,7 @@ public class ChaseCamera : MonoBehaviour
 
         if (smoothRotation)
         {
-            Quaternion wantedRotation = Quaternion.LookRotation(target.position - transform.position, target.up);
+            Quaternion wantedRotation = Quaternion.LookRotation(target.position - transform.position, Vector3.up);
             transform.rotation = Quaternion.Slerp(transform.rotation, wantedRotation, Time.deltaTime * rotationDamping);
         }
 
